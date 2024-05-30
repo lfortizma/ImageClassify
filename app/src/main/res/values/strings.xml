@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ImageClassify</string>
+    <string name="reconocimiento_abono">Reconocimiento Abono</string>
+    <string name="seleccionar_imagen">Seleccionar Imagen</string>
+    <string name="capturar">Capturar</string>
+    <string name="predecir">Predecir</string>
+    <string name="resultado">Resultado :</string>
+    <string name="todo">TODO</string>
+</resources>
